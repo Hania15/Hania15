@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Hania15/Hania15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 **`Hania15 BI Developer/Data Analyst`**
 
 I'm an BI Developer/Data Analyst working everyday step by step to be really good at it. Most of the projects which are on my github are done from the ground up, but actually general part of those projects are some kind of youtube excersises to gain more skills and get more ease with code tasks. I hope that one day it will be as natural to me as making breakfast.🍳🥓(Yeah, you are right I'm a food lover!)
