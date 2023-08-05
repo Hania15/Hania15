@@ -17,6 +17,16 @@ I'm an BI Developer/Data Analyst working everyday step by step to be really good
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /><img align="left" alt="Pandas" width="80px" style="padding-right:30px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
 <br />
 
+#
+### 💼 My certs:
+<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/> AZ-900: Microsoft Azure Fundamentals ||
+DP-900: Microsoft Azure Data Fundamentals
+
+<img align="left" alt="Google" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/google-original.svg?size=128&color=currentColor" /> Google Data Analytics -> IN PROGESS 👩🏼‍💻
+
+
+
+
 
 
 ---
