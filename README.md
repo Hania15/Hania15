@@ -4,6 +4,7 @@
 
 I'm an BI Developer/Data Analyst working everyday step by step to be really good at it. Most of the projects which are on my github are done from the ground up, but actually general part of those projects are some kind of youtube excersises to gain more skills and get more ease with code tasks. I hope that one day it will be as natural to me as making breakfast.🍳🥓(Yeah, you are right I'm a food lover!)
 
+---
 
 ### 🧰 Languages and Tools
 
@@ -14,7 +15,7 @@ I'm an BI Developer/Data Analyst working everyday step by step to be really good
 <img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 <img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Google" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/google-original.svg?size=128&color=currentColor" />
-<img align="left" alt="Google" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/google_bigquery/google_bigquery-icon.svg" />
+<img align="left" alt="Google" width="30px" style="padding-right:10px;" src="file:///Users/haniatrepkowska/Downloads/bigquery.svg" />
 <br />
 
 <details>
