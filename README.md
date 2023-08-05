@@ -8,16 +8,18 @@ I'm an BI Developer/Data Analyst working everyday step by step to be really good
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="PowerBi" width="30px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
+<img align="left" alt="PowerBi" width="23px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="SQLServer" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 <img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Google" width="30px" style="padding-right:10px;" src="https://icongr.am/devicon/google-original.svg?size=128&color=currentColor" />
-<img align="left" alt="Google" width="30px" style="padding-right:10px;" src="file:///Users/haniatrepkowska/Downloads/bigquery.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /><img align="left" alt="Pandas" width="80px" style="padding-right:30px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
 <br />
 
+
+
+---
 <details>
  <summary><h3>👩‍💻 My Journey! </h3></summary>
 
