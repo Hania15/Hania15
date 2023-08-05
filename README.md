@@ -30,7 +30,11 @@ DP-900: Microsoft Azure Data Fundamentals
 
 
 
+### 📊 Stats
 
+![Hanna GitHub stats](https://github-readme-stats.vercel.app/api?username=hania15&show_icons=true&theme=solarized-light)
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Hania15&theme=solarized-light)](https://git.io/streak-stats)) -->
 
 ---
 <details>
